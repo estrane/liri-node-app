@@ -1,0 +1,55 @@
+
+
+"------------------------------ begin ------------------------------\r\nTitle: The Avengers\r\nYear: 2012\r\nImdb Rating: 8.1\r\nCountry: USA\r\nLanguage: English, Russian, Hindi\r\nPlot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.\r\nActors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: http://www.rottentomatoes.com/m/marvels_the_avengers/\r\n------------------------------ fin ------------------------------\r\n"
+
+"@Gelmax1: This SHOULD be the end of the tests\r\nTue Dec 19 22:24:06 +0000 2017\r\n------------------------------ 0 ------------------------------\r\n"
+
+"@Gelmax1: I'll never touch this account outside this testing\r\nTue Dec 19 22:23:56 +0000 2017\r\n------------------------------ 1 ------------------------------\r\n""@Gelmax1: Just tweeting to test stuff\r\nTue Dec 19 22:23:42 +0000 2017\r\n------------------------------ 2 ------------------------------\r\n"
+
+"@Gelmax1: Another test tweet\r\nTue Dec 19 22:23:35 +0000 2017\r\n------------------------------ 3 ------------------------------\r\n"
+
+"@Gelmax1: Test Tweet 1\r\nTue Dec 19 22:23:24 +0000 2017\r\n------------------------------ 4 ------------------------------\r\n"
+
+"@Gelmax1: This SHOULD be the end of the tests\r\nTue Dec 19 22:24:06 +0000 2017\r\n------------------------------ 0 ------------------------------\r\n"
+
+"@Gelmax1: I'll never touch this account outside this testing\r\nTue Dec 19 22:23:56 +0000 2017\r\n------------------------------ 1 ------------------------------\r\n"
+
+
+
+"@Gelmax1: Another test tweet\r\nTue Dec 19 22:23:35 +0000 2017\r\n------------------------------ 3 ------------------------------\r\n"
+
+"@Gelmax1: Just tweeting to test stuff\r\nTue Dec 19 22:23:42 +0000 2017\r\n------------------------------ 2 ------------------------------\r\n""@Gelmax1: Test Tweet 1\r\nTue Dec 19 22:23:24 +0000 2017\r\n------------------------------ 4 ------------------------------\r\n"
+
+"------------------------------ begin ------------------------------\r\nTitle: The Avengers\r\nYear: 2012\r\nImdb Rating: 8.1\r\nCountry: USA\r\nLanguage: English, Russian, Hindi\r\nPlot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.\r\nActors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: http://www.rottentomatoes.com/m/marvels_the_avengers/\r\n------------------------------ fin ------------------------------\r\n"
+
+"------------------------------ begin ------------------------------\r\nTitle: The Avengers\r\nYear: 2012\r\nImdb Rating: 8.1\r\nCountry: USA\r\nLanguage: English, Russian, Hindi\r\nPlot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.\r\nActors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: http://www.rottentomatoes.com/m/marvels_the_avengers/\r\n------------------------------ fin ------------------------------\r\n""------------------------------ begin ------------------------------\r\nTitle: AV\r\nYear: 2005\r\nImdb Rating: 6.8\r\nCountry: Hong Kong\r\nLanguage: Cantonese, English, Japanese\r\nPlot: Students decide to make porn films so they can sleep with an actress.\r\nActors: You-Nam Wong, Lawrence Chou, Kwok Cheung Tsang, Tien You Chui\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: N/A\r\n------------------------------ fin ------------------------------\r\n"
+
+
+
+"------------------------------ begin ------------------------------\r\nTitle: Derp-Man vs. Clock-Watcher\r\nYear: 2015\r\nImdb Rating: N/A\r\nCountry: USA\r\nLanguage: English\r\nPlot: N/A\r\nActors: Nathaniel Eddings, David Gattis\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: N/A\r\n------------------------------ fin ------------------------------\r\n"
+
+"------------------------------ begin ------------------------------\r\nTitle: Wrong\r\nYear: 2012\r\nImdb Rating: 6.3\r\nCountry: France, USA\r\nLanguage: English\r\nPlot: Dolph Springer wakes up one morning to realize he has lost the love of his life, his dog, Paul. During his quest to get Paul (and his life) back, Dolph radically changes the lives of others -- risking his sanity all the while.\r\nActors: Jack Plotnick, Eric Judor, Alexis Dziena, Steve Little\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: http://www.rottentomatoes.com/m/wrong_2011/\r\n------------------------------ fin ------------------------------\r\n""------------------------------ begin ------------------------------\r\nTitle: Mr. Nobody\r\nYear: 2009\r\nImdb Rating: 7.9\r\nCountry: Belgium, Germany, Canada, France, USA, UK\r\nLanguage: English, Mohawk\r\nPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.\r\nActors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham\r\nRotten Tomatoes Rating: N/A\r\nRotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/\r\n------------------------------ fin ------------------------------\r\n"
+
+
+
+"Artist: El Freeze\r\nSong: Get This Song on Spotify\r\nAlbum the song is from: Get This Song on Spotify\r\nPreview Url: https://p.scdn.co/mp3-preview/3c7c65d8c0e7ba890ae68d590dcc3be69e2bab50?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 0 ------------------------------\r\n"
+
+"Artist: Ty Dolla $ign\r\nSong: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix\r\nAlbum the song is from: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]\r\nPreview Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 0 ------------------------------\r\n""Artist: Harry Styles\r\nSong: Sign of the Times\r\nAlbum the song is from: Sign of the Times\r\nPreview Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 1 ------------------------------\r\n"
+
+"Artist: Harry Styles\r\nSong: Sign of the Times\r\nAlbum the song is from: Harry Styles\r\nPreview Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 2 ------------------------------\r\n""Artist: Ty Dolla $ign\r\nSong: Love U Better (feat. Lil Wayne & The-Dream)\r\nAlbum the song is from: Beach House 3\r\nPreview Url: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 3 ------------------------------\r\n"
+
+"Artist: Ty Dolla $ign\r\nSong: Darkside (with Ty Dolla $ign & Future feat. Kiiara)\r\nAlbum the song is from: Darkside (with Ty Dolla $ign & Future feat. Kiiara) [From Bright: The Album]\r\nPreview Url: https://p.scdn.co/mp3-preview/9f847c22264e3b16f86f66119910e164ba5da992?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 4 ------------------------------\r\n"
+
+
+
+
+
+"Artist: Aurelio Voltaire\r\nSong: The Night (1988 Deathrock Version)\r\nAlbum the song is from: Raised By Bats\r\nPreview Url: https://p.scdn.co/mp3-preview/8e6d117d478a8623359b545f19cbb27947e5479d?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 1 ------------------------------\r\n"
+
+"Artist: Aurelio Voltaire\r\nSong: Raised By Bats\r\nAlbum the song is from: Raised By Bats\r\nPreview Url: https://p.scdn.co/mp3-preview/5cfeaef65cf945c47844efc92fdb578679fb5fae?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 0 ------------------------------\r\n"
+
+
+
+"Artist: Aurelio Voltaire\r\nSong: The Devil and Mr. Jones\r\nAlbum the song is from: Raised By Bats\r\nPreview Url: https://p.scdn.co/mp3-preview/59384b14fade014e56c591449c8639f9fe6a7d31?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 3 ------------------------------\r\n""Artist: Aurelio Voltaire\r\nSong: Raised by Bats\r\nAlbum the song is from: The Very Best of Aurelio Voltaire, Vol. 2\r\nPreview Url: https://p.scdn.co/mp3-preview/342d9809e70b28a46ae045db71dee81cdf5a3672?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 4 ------------------------------\r\n"
+
+"Artist: Aurelio Voltaire\r\nSong: Oh My Goth!\r\nAlbum the song is from: Raised By Bats\r\nPreview Url: https://p.scdn.co/mp3-preview/90f52ddae41be2e5f9aa6bddf490a9ebaa52e317?cid=e6bbbd53bc6642ca9b652b1366b61a4b\r\n------------------------------ 2 ------------------------------\r\n"
